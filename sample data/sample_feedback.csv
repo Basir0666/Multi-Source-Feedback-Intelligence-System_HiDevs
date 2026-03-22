@@ -1,0 +1,21 @@
+id,text,rating,date,source,author
+1,"The app is absolutely amazing! Best productivity tool I have ever used.",5,2024-01-15,Survey Export,Alice
+2,"App crashes every time I try to open the settings page. Please fix this bug.",1,2024-01-16,Survey Export,Bob
+3,"Performance has degraded significantly after the latest update. Very slow now.",2,2024-01-17,Survey Export,Charlie
+4,"Clean UI and intuitive design. Love the dark mode feature.",5,2024-01-18,Survey Export,Diana
+5,"Lost all my data after updating the app. No backup option available.",1,2024-01-19,Survey Export,Ethan
+6,"Average experience. Does the job but nothing special.",3,2024-01-20,Survey Export,Fiona
+7,"Battery drain is terrible. This app kills my battery in under two hours.",2,2024-01-21,Survey Export,George
+8,"Great customer support team. Resolved my issue within hours!",5,2024-01-22,Survey Export,Hannah
+9,"Too many ads in the free version. Makes the app completely unusable.",2,2024-01-23,Survey Export,Ian
+10,"Would love to see a feature for exporting data to CSV. Please add this.",4,2024-01-24,Survey Export,Julia
+11,"Subscription price increased but features were actually removed. Not worth it.",1,2024-01-25,Survey Export,Kevin
+12,"Excellent app. Highly recommend to anyone looking for a solid productivity tool.",5,2024-01-26,Survey Export,Laura
+13,"Login keeps failing with an error message. Cannot access my account at all.",1,2024-01-27,Survey Export,Mike
+14,"Notifications are completely broken since the last update. Missing all alerts.",2,2024-01-28,Survey Export,Nina
+15,"Wonderful app that keeps getting better with each update. Five stars!",5,2024-01-29,Survey Export,Oscar
+16,"The UI feels outdated and confusing. Navigation is a total mess.",2,2024-01-30,Survey Export,Paula
+17,"Sync feature is broken. My data does not update correctly across devices.",1,2024-01-31,Survey Export,Quinn
+18,"Nice design but it lacks some important features that competitors offer.",3,2024-02-01,Survey Export,Rachel
+19,"App freezes on the checkout screen. Lost three orders due to this bug.",1,2024-02-02,Survey Export,Sam
+20,"Perfect for my workflow. Fast, reliable, and intuitive. Could not ask for more.",5,2024-02-03,Survey Export,Tina
